@@ -12,9 +12,10 @@ declared in printer.js
 
 Follow this example:
 
-```
+```js
   const contributors = [
-    { name: "Didier Valdez", github: "https://github.com/xDidier901" },
-    { name: "Your name here", github: "your GitHub account link here" },
-  ];
+    { name: 'Didier Valdez', github: 'https://github.com/xDidier901' },
+    { name: 'Aaron Romero', github: 'https://github.com/farassharp' },
+    { name: 'Joshua Saucedo', github: 'https://github.com/joshuansu0897'}
+  ]
 ```
